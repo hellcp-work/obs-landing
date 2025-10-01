@@ -111,6 +111,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll-paginate
   jemoji
+  json
   kramdown (~> 2.3)
   rouge
   webrick (~> 1.8)
