@@ -8,3 +8,4 @@ gem 'jekyll-paginate'
 
 gem "webrick", "~> 1.8"
 gem "json"
+gem "jekyll-sass-converter", "~> 2.0"
